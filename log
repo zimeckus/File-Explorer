@@ -1,0 +1,17 @@
+Log:
+
+- Installed Tauri for Linux via Tauri website
+
+- Installed Tauri-cli for linux	
+
+- Installed yarn for linux
+
+> Cloned the project
+> cd into project folder
+> open terminal and run "$ yarn"
+> ran "$ cargo tauri dev"
+
+
+Presentation:
+
+- Windows is Microsoft and Microsoft means corporate software jail
